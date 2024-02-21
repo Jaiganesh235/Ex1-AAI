@@ -5,7 +5,7 @@
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
-    <p>To create a bayesian Network for the given dataset in Python</p>
+<p>To create a bayesian Network for the given dataset in Python</p>
 ## Algorithm:
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
 Step 2:Set pandas options to display more columns<br/>

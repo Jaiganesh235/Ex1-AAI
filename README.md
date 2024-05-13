@@ -1,7 +1,7 @@
 <H3> Name: S.JAIGANESH </H3>
 <H3>Register No: 212222240037</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:22-02-24</H3>
+<H3>DATE:21-02-24</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
